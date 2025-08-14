@@ -1,4 +1,4 @@
-# 👨‍💻 Juan Gallón Vanegas | Software Engineer & Cybersecurity Specialist
+# 👨‍💻 Juan Gallón Vanegas | Software Engineer (Student)
 
 <div align="center">
 
