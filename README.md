@@ -1,85 +1,128 @@
-# 👨‍💻 Juan Gallón Vanegas | Software Engineer (Student)
+#  **MCKutinha**
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Sharing+Knowledge+Through+Code;Cybersecurity+%26+Backend+Solutions;Building+%26+Teaching+Secure+Systems;Open+Source+Contributor)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=9400D3&center=true&vCenter=true&width=700&lines=Building+random+stuff;Experimenting+with+APIs;Creating+mobile+apps;Testing+new+technologies;Debugging+at+3am;Refactoring+for+fun)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Knowledge_Exchange-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-gallon-vanegas-60a726230/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_Projects-000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/JGal94?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Tech_Discussion-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juan.gallon@outlook.com)
+```
+ ███╗   ███╗ ██████╗██╗  ██╗██╗   ██╗████████╗██╗███╗   ██╗██╗  ██╗ █████╗ 
+ ████╗ ████║██╔════╝██║ ██╔╝██║   ██║╚══██╔══╝██║████╗  ██║██║  ██║██╔══██╗
+ ██╔████╔██║██║     █████╔╝ ██║   ██║   ██║   ██║██╔██╗ ██║███████║███████║
+ ██║╚██╔╝██║██║     ██╔═██╗ ██║   ██║   ██║   ██║██║╚██╗██║██╔══██║██╔══██║
+ ██║ ╚═╝ ██║╚██████╗██║  ██╗╚██████╔╝   ██║   ██║██║ ╚████║██║  ██║██║  ██║
+ ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+[![GitHub](https://img.shields.io/badge/🌌_Explore_the_Void-181717?style=for-the-badge&logo=github&logoColor=9400D3)](https://github.com/JGal94?tab=repositories)
+[![Code](https://img.shields.io/badge/⚡_Enter_the_Matrix-9400D3?style=for-the-badge&logo=matrix&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🎯 **Mi Enfoque: Experimentar y Compartir Código**
+## 🌟 **Profile: MCKutinha**
 
-Me gusta **experimentar programando** diferentes soluciones y tecnologías. Subo mis proyectos y experimentos por si a alguien le resultan útiles o le dan ideas para sus propios desarrollos.
+```bash
+$ whoami
+> MCKutinha
+$ cat status.txt
+> Coding something I don't even know what it's for
+$ echo $CURRENT_MOOD
+> Caffeinated and ready to create bugs
+```
 
-### 💻 **Lo que encontrarás aquí:**
-```
-📱 Proyectos de desarrollo móvil (con bases de datos integradas)
-⚙️ APIs y servicios backend 
-🧪 Experimentos con diferentes tecnologías
-🔧 Proyectos variados que voy desarrollando
-💡 Implementaciones prácticas de conceptos que aprendo
-```
+**Handle:** `MCKutinha`  
+**Status:** `Active (probably breaking something)`  
+**Location:** `Somewhere with WiFi`  
+**Mission:** `Make it work... eventually`
 
 ---
 
-## 🛠️ **Mi Stack Tecnológico & Áreas de Expertise**
+## ⚡ **Tech Stack**
 
-### **🛡️ Ciberseguridad & Infraestructura**
-![Security](https://img.shields.io/badge/Network_Security-FF6B35?style=for-the-badge&logo=shield&logoColor=white)
-![Monitoring](https://img.shields.io/badge/System_Monitoring-4CAF50?style=for-the-badge&logo=grafana&logoColor=white)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-DC143C?style=for-the-badge&logo=hackerone&logoColor=white)
+### **🌌 What I frequently use**
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=shield&logoColor=white&labelColor=2C3E50" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=2C3E50" />
+  <img src="https://img.shields.io/badge/REST%20APIs-45B7D1?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=2C3E50" />
+</p>
 
-> **Especialización**: Diseño e implementación de sistemas de monitoreo de redes, análisis de vulnerabilidades, y hardening de aplicaciones web.
+### **💻 Languages I know**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-### **⚙️ Backend Engineering & APIs**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+### **🚀 Frameworks & tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-> **Foco**: Desarrollo de APIs robustas, arquitecturas microservicios y implementación de patrones de seguridad en el backend.
-
-### **📊 Data Engineering & Optimization**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Management](https://img.shields.io/badge/Data_Management-FF8C00?style=for-the-badge&logo=databricks&logoColor=white)
-
-> **Conocimientos**: Diseño de bases de datos, optimización de consultas y modelado de datos (aplicados en proyectos móviles y web).
-
-### **🌐 Full Stack & Modern Web**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Modern CSS](https://img.shields.io/badge/Modern_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### **🛠️ Development Environment**
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-## 🧠 **Mi Filosofía de Desarrollo**
+## 🧪 **Things that interest me**
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
-### 🔍 **Seguridad Integrada**
-- Implemento medidas de seguridad en mis proyectos
-- Aplico buenas prácticas desde el desarrollo
-- Considero la seguridad en cada funcionalidad
-- Experimento con diferentes enfoques de protección
+### 🔐 **Cybersecurity**
+```
+> Vulnerability analysis
+> Network monitoring  
+> Basic pentesting
+> Secure coding
+```
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
-### 🧪 **Experimentación Continua**
-- Pruebo nuevas tecnologías y frameworks
-- Desarrollo proyectos para aprender conceptos
-- Documento mis experimentos para referencia
-- Comparto código que puede inspirar a otros
+### 🤖 **Artificial Intelligence**
+```
+> Neural networks
+> Machine Learning
+> Automation
+> Data analysis
+```
+
+</td>
+<td valign="top" width="25%">
+
+### ⛓️ **Blockchain**
+```
+> Smart contracts
+> DeFi projects
+> Web3 development
+> Cryptography
+```
+
+</td>
+<td valign="top" width="25%">
+
+### 📱 **Development**
+```
+> Mobile apps
+> REST APIs
+> Databases
+> Frontend/Backend
+```
 
 </td>
 </tr>
@@ -87,101 +130,93 @@ Me gusta **experimentar programando** diferentes soluciones y tecnologías. Subo
 
 ---
 
-## 📈 **Contribuciones & Actividad**
+## 📊 **GitHub Stats**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JGal94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Compartiendo%20Conocimiento%20a%20través%20del%20Código" alt="Juan's GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JGal94&theme=tokyonight&hide_border=true" alt="Consistency in Learning" height="180"/>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                      MCKUTINHA STATUS                          │
+├─────────────────────────────────────────────────────────────────┤
+│ ● Repositories: Public experiments and random projects         │
+│ ● Activity: Commits when I have an idea                        │  
+│ ● Quality: Clean code (most of the time)                       │
+│ ● Security: Always watching                                    │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=JGal94&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=9400D3&icon_color=FF6EC7&title_color=00D9FF&border_radius=15" alt="MCKutinha Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JGal94&theme=synthwave&hide_border=true&background=0D1117&stroke=9400D3&ring=FF6EC7&fire=00D9FF&currStreakLabel=9400D3&border_radius=15" alt="Streak" height="180"/>
 
 </div>
 
 ---
 
-## 🎓 **Explorando & Experimentando**
+## 🚧 **Current projects**
 
-### **🔬 Áreas que me interesan:**
 ```
-💻 Desarrollo de aplicaciones (web y móvil)
-🤖 Inteligencia Artificial y Machine Learning
-⛓️ Blockchain y tecnologías descentralizadas
-🛡️ Ciberseguridad y protección de sistemas
-🧪 Nuevos frameworks y herramientas de desarrollo
+[RANDOM_MOBILE_APP]            ████████████████████ 100%
+[AI_EXPERIMENT]                ████████████████░░░░  80%
+[BLOCKCHAIN_PROJECT]           ████████████░░░░░░░░  60%
+[NEW_IDEA]                     ████████░░░░░░░░░░░░  40%
 ```
 
-### **📚 Experimentando con:**
-- **🤖 IA**: Implementaciones prácticas en aplicaciones
-- **⛓️ Blockchain**: Smart contracts y DApps
-- **🛡️ Ciberseguridad**: Técnicas de protección y monitoreo
-- **📱 Mobile Development**: Nuevas funcionalidades y patrones
-- **☁️ Cloud**: Despliegue y arquitecturas en la nube
+### **💻 Latest experiments:**
+- **Mobile app** - Application with integrated database
+- **Secure API** - Backend with robust authentication
+- **Blockchain project** - Exploring smart contracts
+- **Automation tool** - Script for repetitive tasks
 
 ---
 
-## 🌟 **Mis Proyectos y Experimentos**
+## 💭 **My philosophy**
 
-> *Cada repositorio representa algo que he desarrollado experimentando con diferentes tecnologías*
+> *"If it compiles, it works. If it doesn't compile, coffee."*
 
-### **🚀 Tipos de proyectos que desarrollo:**
+```python
+class MCKutinha:
+    def __init__(self):
+        self.handle = "MCKutinha"
+        self.status = "coding_something"
+        self.coffee = True
+        self.bugs = "many_but_i_fix_them"
+        
+    def code(self, idea):
+        if self.coffee:
+            code = self.write_code(idea)
+            return self.debug_until_it_works(code)
+        else:
+            return "Need coffee first"
+        
+    def share_code(self):
+        return "In case it helps someone else"
 ```
-📱 Aplicaciones móviles completas (con bases de datos integradas)
-⚙️ APIs y servicios backend con diferentes frameworks
-🧪 Experimentos con nuevas tecnologías que aprendo
-🛡️ Implementaciones de conceptos de ciberseguridad
-🤖 Proyectos explorando IA y automatización
-⛓️ Experimentos con blockchain y web3
-```
-
-### **📁 Próximos experimentos:**
-- Integración de IA en aplicaciones móviles
-- Smart contracts y DApps básicas
-- Sistemas de monitoreo de seguridad
-- APIs con implementaciones avanzadas de autenticación
 
 ---
 
-## 🤝 **Comunidad & Networking**
-
-### **💬 Me gusta conversar sobre:**
-- **💻 Desarrollo de aplicaciones y nuevas tecnologías**
-- **🤖 IA y sus aplicaciones prácticas en desarrollo**
-- **⛓️ Blockchain, smart contracts y web3**
-- **🛡️ Ciberseguridad aplicada a proyectos reales**
-- **🚀 Ideas para experimentar con tecnologías emergentes**
-
-### **🌎 Formas de conectar:**
+## 📫 **Contact**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Intercambio_de_Ideas-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-gallon-vanegas-60a726230/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explorar_Código-000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/JGal94?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Conversemos_Tech-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juan.gallon@outlook.com)
+```
+ ╔═══════════════════════════════════════════════════════════╗
+ ║                          Hello?                           ║
+ ╚═══════════════════════════════════════════════════════════╝
+```
 
-</div>
-
----
-
-## 📊 **Mi Impacto en Números**
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=JGal94&style=for-the-badge&color=blue" alt="Knowledge Sharing Reach"/>
-
-</div>
-
-### **🎯 Objetivos 2025:**
-- **🧪** Experimentar con 10+ nuevas tecnologías y frameworks
-- **📱** Desarrollar proyectos móviles más complejos
-- **🤖** Integrar IA en mis aplicaciones
-- **⛓️** Crear mis primeros proyectos blockchain funcionales
+[![Repositories](https://img.shields.io/badge/🚀_View_Repositories-181717?style=for-the-badge&logo=github&logoColor=9400D3)](https://github.com/JGal94?tab=repositories)
+[![Code](https://img.shields.io/badge/💻_Check_Code-9400D3?style=for-the-badge&logo=terminal&logoColor=white)](#)
 
 ---
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=JGal94&style=for-the-badge&color=blueviolet&label=VISITORS" alt="Counter"/>
 
-*💡 "Cada experimento de código es una oportunidad de aprender algo nuevo"*
+```
+Last activity: Recently
+Next commit: When I have an idea
+Availability: Active but no fixed schedule
+```
 
-**¿Te interesan alguna de las tecnologías que experimento o tienes ideas para colaborar?**  
-*¡Siempre estoy abierto a intercambiar conocimientos y explorar nuevas ideas!*
+**// MCKutinha - End of transmission**
 
 </div>
